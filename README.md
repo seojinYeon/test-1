@@ -7,4 +7,4 @@
 
 이미지 삽입
 
-![세이프오브워터](./gitimage/image1.png)
+![세이프오브워터](./gitimage/image.jpg)
